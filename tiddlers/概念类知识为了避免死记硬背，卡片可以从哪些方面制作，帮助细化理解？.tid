@@ -1,8 +1,18 @@
-created: 20231101021911122
+created: 20230101000000000
 creator: liang
-modified: 20231101024143014
+difficulty: 5
+due: 20231103060803664
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231101060803664
 modifier: liang
-tags: ? 卡片
+reps: 1
+retrievability: 1
+review: 20231101060803664
+stability: 2
+tags: 如何写出好卡片：利用间隔重复创造理解 ?
 title: 概念类知识为了避免死记硬背，卡片可以从哪些方面制作，帮助细化理解？
 type: text/vnd.tiddlywiki
 
