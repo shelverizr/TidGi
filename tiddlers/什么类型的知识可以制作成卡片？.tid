@@ -1,8 +1,18 @@
 created: 20231101021735289
 creator: liang
-modified: 20231101061132663
+difficulty: 5
+due: 20231103082839403
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20231101082839403
 modifier: liang
-tags: 如何写出好卡片：利用间隔重复创造理解 .
+reps: 1
+retrievability: 1
+review: 20231101082839403
+stability: 2
+tags: 卡片 ?
 title: 什么类型的知识可以制作成卡片？
 type: text/vnd.tiddlywiki
 
